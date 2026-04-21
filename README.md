@@ -4,8 +4,7 @@
 
 MSc Bioinformatics candidate at Saarland University, Germany. I build reproducible, scalable workflows for large-scale genomic and epigenomic data — from WGBS and Nanopore sequencing to methylation arrays and single-cell RNA-seq. My background in pharmacology gives me a translational perspective linking computational findings to disease mechanisms.
 
-Targeting data scientist roles in **biotech and pharma**.
-
+Open to PhD positions and data scientist roles in translational research
 ---
 
 ## 🔬 What I work on
