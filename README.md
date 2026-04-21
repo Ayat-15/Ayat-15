@@ -50,7 +50,7 @@ Targeting data scientist roles in **biotech and pharma**.
 | [OMICS of vascular smooth muscle cells](https://fairdomhub.org/projects/461) | Epitranscriptomic landscape of VSMC phenotypic transitions — RNA modification detection and differential expression using Nanopore direct RNA-seq | ONT, RNA-seq |
 | [Systems genetics of lung health & asthma](https://fairdomhub.org/projects/478) | GWAS, polygenic scores, mQTL and eQTL integration for lung phenotypes | GWAS, QTL |
 | [iMED-RISK: Medulloblastoma classification](https://fairdomhub.org/projects/528) | Methylation-based tumor classification using 450K/EPIC/935K arrays; PCA, UMAP, and t-SNE across molecular subtypes | Methylation arrays |
-| [Methylation in respiratory infection](https://fairdomhub.org/projects/427) | Differential methylation analysis across infection timepoints using RRBS | RRBS |
+| [Methylation in respiratory infection](https://fairdomhub.org/projects/427) | Differential methylation analysis across infection timepoints using WGBs | WGBs |
 | Rett Syndrome epigenomics *(MSc thesis)* | Genome-wide differential methylation across MECP2 mutation subtypes; mutation-specific epigenetic signatures and functional enrichment | RRBS |
 | [Nanopore for leukaemic tumour models](https://fairdomhub.org/projects/431) | Implementing ONT sequencing for detection of treatment-induced transcriptomic and epitranscriptomic changes | ONT |
 
